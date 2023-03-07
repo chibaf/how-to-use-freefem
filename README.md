@@ -13,3 +13,7 @@ https://github.com/chibaf/introduction_to_freefem
 chibaf/poisson_freefem: solving poisson equation by freefem
 
 https://github.com/chibaf/poisson_freefem
+
+# freefemの計算結果をfreefemで読み込んで解析する
+
+https://github.com/chibaf/reading_solution_files-freefem

@@ -8,7 +8,7 @@ chibaf/introduction_to_freefem: introduction to freefem
 
 https://github.com/chibaf/introduction_to_freefem
 
-# freefemによるポアソン方程式の解法
+# freefemによるポアソン方程式の解法：境界値問題
 
 chibaf/poisson_freefem: solving poisson equation by freefem
 

@@ -17,3 +17,7 @@ https://github.com/chibaf/poisson_freefem
 # freefemの計算結果をfreefemで読み込んで解析する
 
 https://github.com/chibaf/reading_solution_files-freefem
+
+# 初期値問題を解く: 熱方程式
+
+https://github.com/chibaf/heat_equation-freefem
